@@ -1,0 +1,24 @@
+/* Style for <h1> - Adding text shadow */
+h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow: 2px right, 2px down, 4px blur */
+    font-family: Arial, sans-serif;
+    color: #333; /* Dark gray text color */
+}
+
+/* Style for <ol> - Ordered List */
+ol {
+    color: darkgreen;
+    font-size: 18px;
+}
+
+/* Style for <ul> - Unordered List */
+ul {
+    color: darkblue;
+    font-size: 18px;
+}
+
+/* Style for list items */
+li {
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px; /* Space between list items */
+}

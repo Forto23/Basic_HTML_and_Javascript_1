@@ -1,0 +1,31 @@
+/* Set the background color of the table */
+table {
+    background-color: #f0f0f0; /* Light gray background */
+    width: 50%; /* Table width */
+    margin: 20px auto; /* Center the table */
+    border-collapse: collapse; /* Collapse table borders into one */
+}
+
+/* Style the table headers */
+th {
+    background-color: #4CAF50; /* Green background for headers */
+    color: white; /* White text for headers */
+    padding: 10px;
+}
+
+/* Style the table data cells */
+td {
+    text-align: center; /* Center the text */
+    padding: 10px;
+    border: 1px solid #ddd; /* Light gray border around cells */
+}
+
+/* Add a hover effect on the rows */
+tr:hover {
+    background-color: #ddd; /* Light gray background on hover */
+}
+
+/* Style the table borders */
+table, th, td {
+    border: 1px solid black; /* Black border for the table */
+}

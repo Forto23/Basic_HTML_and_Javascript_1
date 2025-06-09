@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style Element Example</title>
+
+    <style>
+        /* CSS class to style the text */
+        .highlight-text {
+            color: #FF6347; /* Tomato color */
+            text-decoration: underline; /* Underline the text */
+            font-weight: bold; /* Make the text bold */
+            font-size: 20px; /* Set font size */
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>Welcome to My Style Element Example</h1>
+
+    <!-- Paragraph with the class applied -->
+    <p class="highlight-text">This text is styled with a class using the style element!</p>
+
+</body>
+</html>
