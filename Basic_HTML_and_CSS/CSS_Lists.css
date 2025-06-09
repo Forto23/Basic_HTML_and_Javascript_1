@@ -1,0 +1,9 @@
+/* Change the list-style-type of the unordered list (ul) */
+ul {
+    list-style-type: square; /* Changes the bullet to square */
+}
+
+/* Change the list-style-type of the ordered list (ol) */
+ol {
+    list-style-type: upper-roman; /* Changes the numbers to uppercase Roman numerals (I, II, III) */
+}

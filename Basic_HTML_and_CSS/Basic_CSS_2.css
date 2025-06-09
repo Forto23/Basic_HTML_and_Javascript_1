@@ -1,0 +1,11 @@
+/* Apply text-shadow to the <h1> element */
+h1 {
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); /* Shadow: 3px right, 3px down, 5px blur */
+    color: #333; /* Dark color for the text */
+}
+
+/* Optional: Style for the paragraph */
+p {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}

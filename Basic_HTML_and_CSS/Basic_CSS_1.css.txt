@@ -1,0 +1,25 @@
+/* CSS for <p> element */
+p {
+    color: #4CAF50; /* Set text color to green */
+    text-align: center; /* Align the text to the center */
+    font-family: 'Forto', sans-serif; /* Apply Forto font (make sure it's available or replace with a similar font) */
+}
+
+/* Class for the title (heading) */
+.title {
+    color: #FF6347; /* Tomato color */
+    font-size: 30px; /* Larger text size */
+}
+
+/* Class for the description paragraph */
+.description {
+    color: #000; /* Black color */
+    font-size: 18px;
+}
+
+/* Class for the highlighted paragraph */
+.highlight {
+    color: #FFD700; /* Gold color */
+    font-weight: bold; /* Make the text bold */
+    font-size: 20px; /* Make the text a little larger */
+}
